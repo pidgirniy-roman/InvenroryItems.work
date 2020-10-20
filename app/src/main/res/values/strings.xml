@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InvenroryItems</string>
+
+    <string name="title_name_direction">Направление</string>
+    <string name="title_name_unit">ТТ/ЛО/ЦО-сотрудник</string>
+    
+    <string name="item_technics">Выдаваемая техника</string>
+    <string name="item_technics_inv">Инв № Техники</string>
+
+    <string name="item_status_text_view">Статус</string>
+    <string name="item_status_is_ready_edit_view">Статус готовности</string>
+
+    <string name="item_delivery_text_view">Выдача</string>
+    <string name="item_date_of_issue_edit_text">Дата выдачи</string>
+
+    <string name="item_comment">Комментарий</string>
+    <string name="save_invenory">Save Invenory number</string>
+    <string name="delete_inventory">Delete inventory</string>
+
+
+</resources>
